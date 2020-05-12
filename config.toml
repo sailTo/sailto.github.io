@@ -1,0 +1,5 @@
+baseURL = "http://sailto.github.io"
+languageCode = "en-us"
+title = "Sail To ..."
+theme = "hugo-coder"
+hasCJKLanguage = "true"
