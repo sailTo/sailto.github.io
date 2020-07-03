@@ -1264,7 +1264,7 @@
     "datePublished": "0001-01-01T00:00:00Z",
     "dateModified": "0001-01-01T00:00:00Z",
     "url" : "http://sailto.github.io/cn/try/try/",
-    "description": "Try try this! $\\sim$ try",
+    "description": "Try try this $\\sim$ try",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http://sailto.github.io/"
@@ -1632,8 +1632,8 @@
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
       <h1 id="try">Try</h1>
-<h2 id="try-this">try this!</h2>
-<p>$\sim$ try</p>
+<h2 id="try-this">try this</h2>
+<p>$\sim$ <strong>try</strong></p>
 
     </article>
     
@@ -1836,6 +1836,24 @@
   
 </nav>
     
+  
+    <div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js" crossorigin="anonymous"></script>
+<script>
+  var gitalk = new Gitalk({
+    id: '0001-01-01 00:00:00 \x2b0000 UTC',
+    title: '',
+    clientID: '    c163829f2c64c96d4491',
+    clientSecret: '43a72133bd40fdd740ac1bb8f35a99bfd63d297e',
+    repo: 'https:\/\/github.com\/sailTo\/commentbase',
+    owner: 'sailto',
+    admin: ['sailto'],
+    body: decodeURI(location.href)
+  });
+  gitalk.render('gitalk-container');
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/gitalk/gitalk">comments powered by gitalk.</a></noscript>
   
 
     <div class="modal micromodal-slide" id="modal" aria-hidden="true">
@@ -2189,7 +2207,7 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="false" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#try-this">try this!</a></li>
+    <li><a href="#try-this">try this</a></li>
   </ul>
 </nav>
   </div>

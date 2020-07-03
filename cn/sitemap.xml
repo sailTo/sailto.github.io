@@ -3,12 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sailto.github.io/cn/about/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://sailto.github.io/cn/try/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://sailto.github.io/cn/try/try/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sailto.github.io/cn/about/</loc>
   </url>
   
   <url>
