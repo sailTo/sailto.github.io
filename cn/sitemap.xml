@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sailto.github.io/cn/about/about/</loc>
+    <loc>http://sailto.github.io/cn/about/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sailto.github.io/cn/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://sailto.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://sailto.github.io/cn/"
+                />
   </url>
   
   <url>
@@ -13,10 +29,6 @@
   
   <url>
     <loc>http://sailto.github.io/cn/try/try/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sailto.github.io/cn/about/</loc>
   </url>
   
   <url>
@@ -30,20 +42,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="http://sailto.github.io/cn/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://sailto.github.io/cn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sailto.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://sailto.github.io/cn/"
                 />
   </url>
   
