@@ -14,6 +14,7 @@
     <managingEditor>u__box#hotmail.com (sail to)</managingEditor>
     <webMaster>u__box#hotmail.com (sail to)</webMaster>
     <copyright>©{year}, sailto, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://sailto.github.io/cn/try/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,15 +23,18 @@
 
       
       <item>
-        <title></title>
+        <title>About</title>
         <link>http://sailto.github.io/cn/try/try/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
         <author>u__box#hotmail.com (sail to)</author>
-        
+        <atom:modified>Fri, 28 Feb 2020 00:00:00 +0000</atom:modified>
         <guid>http://sailto.github.io/cn/try/try/</guid>
-        <description>Try try this $\sim$ try</description>
+        <description>$\sim$ try
+$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
+printf(&#39;hello world&#39;)  Do you like mi4i?
+ </description>
         
-        <dc:creator>sail to</dc:creator>
+        <dc:creator>Choi</dc:creator>
         
         
         

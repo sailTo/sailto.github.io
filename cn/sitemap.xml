@@ -4,12 +4,12 @@
   
   <url>
     <loc>http://sailto.github.io/cn/about/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://sailto.github.io/cn/</loc>
-    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,12 +23,18 @@
   </url>
   
   <url>
-    <loc>http://sailto.github.io/cn/try/</loc>
-    <priority>0</priority>
+    <loc>http://sailto.github.io/cn/try/try/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sailto.github.io/cn/try/try/</loc>
+    <loc>http://sailto.github.io/cn/try/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sailto.github.io/cn/try/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -71,10 +77,6 @@
                 hreflang="cn"
                 href="http://sailto.github.io/cn/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://sailto.github.io/cn/try/</loc>
   </url>
   
 </urlset>
